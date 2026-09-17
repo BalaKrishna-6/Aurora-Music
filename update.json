@@ -1,3 +1,4 @@
+
 {
   "versionName": "1.0.1",
   "versionCode": 2,
@@ -5,6 +6,6 @@
   "title": "Aurora Music 1.0.1",
   "description": "Aurora Music 1.0.1 update.",
   "mandatory": false,
-  "downloadUrl": "YOUR_GITHUB_1.0.1_APK_URL",
+  "downloadUrl": "https://github.com/BalaKrishna-6/Aurora-Music/releases/download/v1.0.1/Aurora-Music-1.0.1.apk",
   "sha256": "9dd664f85b964694fefdeef9a1f70060d526742d5bc24fd5f4f0f029af549977"
 }
